@@ -1,4 +1,140 @@
 /* GENERALE */
 body {
     font-family: roboto;
-}
+  }
+  
+  main#main {
+    background-color: #ffc6f9;
+  }
+  
+  h1, h2, h3, h4 {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+  }
+  
+  h1 {
+    padding-top: 30px;
+    padding-bottom: 40px;
+    font-size: 45px;
+    color: #000000;
+    text-transform: capitalize;
+  }
+  
+  h2 {
+    font-size : 20px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #000000;
+  }
+  
+  p {
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: -10px;
+  }
+  
+  div {
+    margin-bottom: 80px;
+  }
+  
+  section {
+    height: 300px;
+    width: 800px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    line-height: 20px;
+    padding-bottom: 20px;
+  }
+  
+   ul li strong {
+    font-size: 15px;
+    margin-right: 15px
+  }
+  
+  section#tribute-info {
+     padding-top: 20px;
+  }
+  
+  section#theatre {
+    padding-bottom: 20px;
+  }
+  
+  section#cinema {
+    height: 1500px;
+    margin-bottom: 50px;
+  }
+  
+  h3 {
+    font-size: 25px;
+    padding-bottom: 20px;
+  }
+  
+  ul{
+    padding-bottom: 25px;
+  }
+  
+  ul li{
+    font-size: 15px;
+    list-style: none;
+    margin-left: 20%;
+    padding-bottom: 20px;
+  }
+  
+  hr{
+    width: 35%;
+  }
+  
+  i{
+    font-size: 12px;
+    margin: 50px;
+  }
+  
+  .info {
+    font-size: 15px;
+    max-width: 70%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  h4 {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: 30px;
+  }
+  
+  h5{
+    text-align: center;
+    font-size: 20px;
+    
+  }
+  
+  h5 a{
+    text-decoration: none;
+    color: #811453;
+  }
+  
+  img#image {
+      max-width: 100%;
+      display: block;
+      height: auto;
+      margin: 0 auto;
+  } 
+  
+  #img-caption{
+    text-align: center;
+    font-size: 20px;
+  }
+  
+  div.wikipedia {
+    text-align: center;
+    padding-bottom: 20px;
+  }
+  
+  .wikipedia p {
+    font-size: 15px;
+  }
+  
+  
